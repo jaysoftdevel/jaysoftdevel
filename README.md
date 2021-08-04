@@ -2,7 +2,7 @@
 - 👀 I’m interested in #stuff
 - 🌱 I’m currently learning #morestuff
 - 💞️ I’m looking to collaborate on #anotherstuff
-- 📫 How to reach me ??? :O
+- 📫 How to reach me: jaysoftdevel@gmail.com
 
 <!---
 jaysoftdevel/jaysoftdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
